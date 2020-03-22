@@ -1,0 +1,28 @@
+{
+  "@@locale": "de",
+  "appName": "Lernhelfer",
+  "learnerPath": "Ich bin Schüler:in und suche Unterstützung",
+  "teacherPath": "Ich bin Lehrer:in und möchte unterstützen",
+  "learnerCreateProfile": "Schülerprofil anlegen",
+  "teacherCreateProfile": "Lehrerprofil anlegen",
+  "learnerRequestsOverview": "Deine Hilfegesuche",
+  "addRequest": "Hinzufügen",
+  "usernameHint": "Wie lautet dein Name?",
+  "username": "Name",
+  "gradeHint": "Klasse",
+  "gradeN": "{grade}. Klasse",
+  "currentGradeQuestion": "In welcher Klasse bist du?",
+  "state": "Bundesland",
+  "stateSchoolQuestion": "In welchem Bundesland gehst du zur Schule?",
+  "createProfile": "Profil erstellen",
+  "goOn": "Weiter geht's!",
+  "chooseSubjects": "Wähle deine Fachgebiete",
+
+  "learnerTopicNotChosen": "Wähle ein Thema aus",
+  "learnerTopicTitle" : "Wo brauchst du Hilfe?",
+
+  "learnerQuestionTitle": "Hast du noch Fragen?",
+  "learnerQuestionUploadHint": "Hier kannst du ein Bild mit deiner Aufgabe hochladen"
+
+
+}

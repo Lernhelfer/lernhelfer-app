@@ -1,0 +1,27 @@
+{
+  "@@locale": "en",
+  "appName": "Learn Helper",
+  "learnerPath": "I'm a student and are looking for help",
+  "teacherPath": "I'm a teacher and would like to help",
+  "learnerCreateProfile": "Learner create profile",
+  "teacherCreateProfile": "Teacher create profile",
+  "learnerRequestsOverview": "Your requests",
+  "addRequest": "Add",
+  "usernameHint": "What's your name?",
+  "username": "Name",
+  "gradeHint": "Grade",
+  "gradeN": "{grade}. grade",
+  "currentGradeQuestion": "What's your current grade?",
+  "state": "State",
+  "stateSchoolQuestion": "In which state is your school?",
+  "createProfile": "Create profile",
+  "goOn": "Go on!",
+  "chooseSubjects": "Choose your subjects",
+
+  "learnerTopicNotChosen": "No topic chosen",
+  "learnerTopicTitle" : "Where do you need help?",
+
+  "learnerQuestionTitle": "Do you have more information?",
+  "learnerQuestionUploadHint": "You can upload an image of your task here"
+
+}
