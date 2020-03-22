@@ -7,4 +7,6 @@ Durch die von Corona verursachten Schulschließungen müssen Schüler*innen ihre
 
 [Weiterlesen](https://devpost.com/software/1_019_d_interaktiveschuelerunterstuetzung)
 
+<hr>
+
 [![zum Lernhelfer Video](https://img.youtube.com/vi/h2B6y1znOT4/0.jpg)](https://www.youtube.com/watch?v=h2B6y1znOT4)
