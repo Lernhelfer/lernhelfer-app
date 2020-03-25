@@ -10,3 +10,15 @@ Durch die von Corona verursachten Schulschließungen müssen Schüler*innen ihre
 <hr>
 
 [![zum Lernhelfer Video](https://img.youtube.com/vi/h2B6y1znOT4/0.jpg)](https://www.youtube.com/watch?v=h2B6y1znOT4)
+
+<hr>
+
+### Videos aus der App
+
+#### Student Flow
+
+![Student Flow](https://github.com/Lernhelfer/lernhelfer-app/blob/master/videos/student_flow.gif)
+
+#### Teacher Flow
+
+![Teacher Flow](https://github.com/Lernhelfer/lernhelfer-app/blob/master/videos/teacher_flow.gif)
